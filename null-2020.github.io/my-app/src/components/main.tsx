@@ -1,12 +1,12 @@
 import React from "react";
-import { Profile } from "./profile";
-import { Blogs } from "./blogs";
+import { About } from "./about";
+import { Experiences } from "./experience";
 
 export const Main = () => {
   return (
     <div>
-      <Profile />
-      <Blogs />
+      <About />
+      <Experiences />
     </div>
   );
 };
