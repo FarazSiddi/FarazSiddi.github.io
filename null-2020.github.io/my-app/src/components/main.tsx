@@ -1,9 +1,12 @@
 import React from "react";
+import { Profile } from "./profile";
+import { Blogs } from "./blogs";
 
 export const Main = () => {
   return (
-    <header>
-      <h1>This is the main (body)</h1>
-    </header>
+    <div>
+      <Profile />
+      <Blogs />
+    </div>
   );
 };

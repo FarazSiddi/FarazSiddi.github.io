@@ -1,11 +1,12 @@
 import React from "react";
 import { Navbar } from "./navbar";
+// import { Banner } from "./banner";
 
 export const Header = () => {
   return (
     <header>
       <Navbar />
-      <h1>This is a header</h1>
+      {/* <Banner /> */}
     </header>
   );
 };
