@@ -18,8 +18,14 @@ export const Banner = () => {
           <h3 id="text--bottom">Full-Stack Developer</h3>
         </div>
 
-        <button>View Resume</button>
-        <button>Download Resume</button>
+        <div
+          id="button-group"
+          className="d-flex py-2 my-3 bd-highlight justify-content-between btn-group btn-group-lg"
+          role="group"
+        >
+          <button className="btn btn-primary btn">View Resume</button>
+          <button className="btn btn-secondary btn">Download Resume</button>
+        </div>
       </div>
     </div>
   );

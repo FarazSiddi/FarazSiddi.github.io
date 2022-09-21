@@ -5,5 +5,10 @@
 }
 
 #about-me {
-  height: 50vh;
+  height: 100vh;
+}
+
+#headshoot {
+  width: 200px;
+  /* border-radius: 100%; */
 }
