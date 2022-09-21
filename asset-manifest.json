@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.1f0370de.css",
-    "main.js": "/static/js/main.68dd2aa0.js",
+    "main.js": "/static/js/main.98e5f012.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Headshot-FarazSiddiqui_3.jpg": "/static/media/Headshot-FarazSiddiqui_3.73034417b9bd51496d12.jpg",
     "static/media/teahub.io-snow-mountain-wallpaper-572052.jpg": "/static/media/teahub.io-snow-mountain-wallpaper-572052.0c841a2fb6c698fd1cdb.jpg",
     "index.html": "/index.html",
     "main.1f0370de.css.map": "/static/css/main.1f0370de.css.map",
-    "main.68dd2aa0.js.map": "/static/js/main.68dd2aa0.js.map",
+    "main.98e5f012.js.map": "/static/js/main.98e5f012.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f0370de.css",
-    "static/js/main.68dd2aa0.js"
+    "static/js/main.98e5f012.js"
   ]
 }
