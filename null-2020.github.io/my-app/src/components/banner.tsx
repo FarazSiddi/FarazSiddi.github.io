@@ -15,7 +15,7 @@ export const Banner = () => {
       >
         <div id="banner--text" className="text-center px-5 py-5">
           <h1 id="text--top">Faraz Siddiqui</h1>
-          <h3 id="text--bottom">Full-Stack Developer</h3>
+          <h3 id="text--bottom">Aspiring Full-Stack Developer</h3>
         </div>
 
         <div
