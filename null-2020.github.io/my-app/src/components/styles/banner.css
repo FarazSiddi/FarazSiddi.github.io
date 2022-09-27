@@ -5,13 +5,22 @@
 }
 
 #banner {
-  width: 100vw;
+  /* width: 100vw; */
+  min-height: 500px;
+  background-image: url(../images/teahub.io-snow-mountain-wallpaper-572052.jpg);
+  background-size: cover;
+  width: 98.9vw;
+  height: 92.1vh;
   text-align: center;
 }
 
-#background-img {
-  width: 98.9vw;
-  height: 92.1vh;
+#banner--center {
+  position: absolute;
+  z-index: 10;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
 
 #banner--text {
