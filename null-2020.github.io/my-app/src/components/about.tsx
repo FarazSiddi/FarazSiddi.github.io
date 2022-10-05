@@ -5,20 +5,24 @@ export const About = () => {
   return (
     <div id="about-me" className="bg-light">
       <div className="container ps-5 pt-5">
-        <div className="row">
+        <div className="d-flex flex-row bd-highlight mb-3">
           <img
             id="headshoot"
             src={require("./images/Headshot-FarazSiddiqui_3.jpg")}
-            className="col-md-5 border border-info border-5 rounded-circle me-5"
+            className="bd-highlight border border-info border-5 rounded-circle me-5"
             alt="A headshot of myself wearing a gray jacket and black collared shirt."
           />
-          <h1 className="col-md-8">Hi!</h1>
+          <div className="d-flex flex-column bd-highlight mb-3">
+            <h1 className="bd-highlight">Hi!</h1>
+            <p className="bd-highlight">
+              My name is Faraz Siddiqui. I am currently a second year Applied
+              Mathematics student with a specialization of Computer Science at
+              Toronto Metropolitan University (formerly known as Ryerson
+              University). I love probem solving.
+            </p>
+            <p className="bd-highlight">Website and resume:</p>
+          </div>
         </div>
-        <p>
-          I am currently a second year Applied Mathematics student with a
-          specialization of Computer Science at Toronto Metropolitan University
-          (formerly known as Ryerson University).
-        </p>
       </div>
     </div>
   );

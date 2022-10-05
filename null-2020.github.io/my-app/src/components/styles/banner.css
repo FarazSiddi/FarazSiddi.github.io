@@ -6,11 +6,12 @@
 
 #banner {
   /* width: 100vw; */
-  min-height: 500px;
+  width: 100%;
+  height: 100vh;
+  min-height: 700px;
+  min-width: 400px;
   background-image: url(../images/teahub.io-snow-mountain-wallpaper-572052.jpg);
   background-size: cover;
-  width: 98.9vw;
-  height: 92.1vh;
   text-align: center;
 }
 
