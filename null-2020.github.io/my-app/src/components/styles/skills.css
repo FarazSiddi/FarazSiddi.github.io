@@ -4,5 +4,6 @@
   box-sizing: border-box;
 }
 #skills {
+  background-color: #e0dddd;
   height: 100vh;
 }
